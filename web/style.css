@@ -1,0 +1,11 @@
+input,button,textarea{
+  display: block;
+  margin: 5px auto;
+  padding: 0;
+}
+h2,p{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  display: block;
+}
