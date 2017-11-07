@@ -1,8 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-class IndexController extends Yaf_Controller_Abstract {
-   /* default action */
-   public function indexAction() {
-       $this->_view->word = "Buongiornoo";
-   }
-}
+echo "My first PHP script!";
 ?>
+
+</body>
+</html>
