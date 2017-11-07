@@ -1,7 +1,7 @@
 <html>
   <head>
     <link href="style.css" rel="stylesheet" type="text/css">
-    <script src="web-link.js"></script>
+    <script src="codice.js"></script>
   </head>
   <body>
     <h2>Buongiorno 5IA</h2>
